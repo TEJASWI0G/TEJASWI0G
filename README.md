@@ -1,3 +1,4 @@
+![logo](https://github.com/TEJASWI0G/TEJASWI0G/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Tejaswi</h1>
 <h3 align="center">Innovative Problem-Solver | Python & Data Enthusiast | Software Developer | Building Impactful Solutions</h3>
 
