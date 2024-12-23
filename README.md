@@ -11,7 +11,7 @@
 </p>
 
 <p align="left"> 
-  ⚡ Fun fact **I enjoy blending creativity with tech!**
+  ⚡ Fun fact I enjoy blending creativity with tech!
 </p>
 
 <h3 align="left">Connect with me:</h3>
